@@ -1,5 +1,5 @@
 # Wumpus-Game
-Fully functioning graphical Find The Wumpus game. Completed as a first year paired project at university.
+Fully functioning graphical Find The Wumpus game. Completed as a first year group project at university.
 
 Contributors: 
 Daniel Key- dgk2@st-andrews.ac.uk
@@ -11,6 +11,6 @@ Running instructions:
 
 > Open a command prompt and navigate to the folder containing the .java files
 
-> Run the command "javac &#42;.java"
+> Run the command "javac *.java"
 
 > Run the command "java Main"
